@@ -1,5 +1,5 @@
 def brief_about():
-    brief = '''
+    brief = f'''
     Greetings, I am Pradiv Gnanaraj, a seasoned operations professional with 8 years of dedicated expertise in Python and a dynamic range of technologies. I bring proven skills in Django, Flask, FastAPI, RestAPI, PyTest, and more to the table. With a wealth of experience in database management, testing, DevOps, cloud technologies such as AWS and GCP, as well as security protocols, I have established a track record of accomplishment.
     
     My journey thus far underscores an unwavering dedication to excellence, consistently seeking opportunities for growth and optimization. My expertise stands as a testament to my readiness to make impactful contributions that propel success.

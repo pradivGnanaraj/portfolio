@@ -29,6 +29,8 @@ with st.container():
         st.image("images/self.jpeg", width=300)
     with col2_main:
         st.write(backend.brief_about())
+        st.markdown("[LinkedIn](https://www.linkedin.com/in/pradivgnanaraj/)")
+        st.markdown("[GitHub](https://github.com/pradivGnanaraj)")
 
 
 with st.container():
