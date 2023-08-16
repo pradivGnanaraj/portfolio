@@ -67,17 +67,17 @@ with st.container():
         col1_ops, col2_ops, col3_ops = st.columns(3)
 
         with col1_ops:
-            st.write("Version Control & CI/CD")
-            st.write("Configuration Management")
-            st.write("Infrastructure Monitoring")
-            st.write("Containerisation")
-            st.write("Cloud Services")
+            st.write("Vprofile Project Intro & Setup on VM’s")
+            st.write("AWS Cloud For Project Set Up Lift & Shift")
+            st.write("Re-Architecting Web App on AWS Cloud [PAAS & SAAS]")
+            st.write("Continuous Integration Using Jenkins, Nexus, Sonarqube & Slack")
+            st.write("Continuous Delivery and Configuration Management [Jenkins plus Ansible]")
         with col2_ops:
-            st.write("GIT, Jenkins")
-            st.write("Chef, Puppet")
-            st.write("Prometheus, Grafana")
-            st.write("Docker, Kubernetes")
-            st.write("AWS, GCP")
+            st.write("Vprofile on Beanstalk & RDS")
+            st.write("Code Commit, Code Build & Code Pipeline")
+            st.write("CI & CD on AWS Cloud for Vprofile Project")
+            st.write("Beanstalk, RDS, CodePipeline etc")
+            st.write("Vprofile Project deployment on Kubernetes")
         with col3_ops:
             # st.write("Source Code")
             # st.write("Source Code")
